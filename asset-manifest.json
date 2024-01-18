@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fetch-api-marvel/static/css/main.531ce804.css",
+    "main.js": "/fetch-api-marvel/static/js/main.196c2d26.js",
+    "index.html": "/fetch-api-marvel/index.html",
+    "main.531ce804.css.map": "/fetch-api-marvel/static/css/main.531ce804.css.map",
+    "main.196c2d26.js.map": "/fetch-api-marvel/static/js/main.196c2d26.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.531ce804.css",
+    "static/js/main.196c2d26.js"
+  ]
+}
