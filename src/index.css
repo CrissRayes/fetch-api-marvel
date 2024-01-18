@@ -1,0 +1,18 @@
+body {
+  background-color: #f5f5f5;
+}
+
+.texto-truncado {
+  /* truncar texto */
+  overflow: hidden;
+  /* 3 lineas */
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+
+  text-overflow: ellipsis;
+}
+
+.card {
+  padding: 0 !important;
+}
